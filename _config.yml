@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Hackfox Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Hack Fox"
+description              : "The ramblings of an infosec engineer and total derp."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -61,7 +61,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :@HackF0x
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hack Fox"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "InfoSec engineer. Awkward. Quiet. Complete derp."
+  location         : "Tardis"
   email            :
   uri              :
   bitbucket        :
