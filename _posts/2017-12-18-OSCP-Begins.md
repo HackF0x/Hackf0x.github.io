@@ -7,8 +7,6 @@ comments: null
 share: true
 related: true
 ---
-## First day in the labs
-
 _______________________________________________________________________________________________________________________________________
 
 My scheduled lab time kicked off at 7PM EST Saturday. My lab pack came in at exactly 7PM (1900) on the dot. I figured the VM for the lab was pretty much the same as the one they had me download for the lab connectivity test so I hopped right into the lab while I waited for the course videos to download. I wanted to just poke around a bit before I really dove into the course material. I ended up finding an easily exploited machine that I will have to go back through and exploit again later due to my lack of documentation of what I did. I highly doubt many of the machines in the network will be as easy as Alice was and that isn't a bad thing. Outside of handlers, I want to use as little Metasploit as possible in the labs. 
