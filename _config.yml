@@ -13,7 +13,7 @@ title                    : "Ramblings in the Cybers"
 title_separator          : "-"
 name                     : "Hack Fox"
 description              : "The ramblings of an infosec engineer and total derp."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hackfox.net
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HackF0x/InfoSec"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
