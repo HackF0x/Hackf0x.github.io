@@ -18,3 +18,5 @@ You will hear everyone keep saying that enumeration is the key to the OSCP. It i
 This weekend brought me the first machine on my list that required an exploit that wasn't directly exploitable. There may be other ways to escalate but my method seemed to have the best chance of success. Read up on your port forwarding, because you will need it in the labs. I will say though, so far that host has been my favorite. 
 
 My weakspots will continue to be privilage escalation. I will probably schedule my exam for sometime near the end of June or early July. That will give me some lab time left over if I fail and need to come back. Buffer overflows and privalage escalation are going to be two subjects I will have to better understand before I stand a chance in the exam .
+
+Roots: Alice, Mike, Ralph, Phoenix, Kraken, Susie, Alpha, Gamma.
