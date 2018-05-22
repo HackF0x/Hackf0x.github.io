@@ -1,5 +1,5 @@
 ---
-title: Who is the hack fox?
+title: All about the hack fox. 
 layout: single
 author_profile: true
 read_time: false
