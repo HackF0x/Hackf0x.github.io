@@ -8,7 +8,6 @@ share: true
 related: true
 ---
 _______________________________________________________________________________________________________________________________________
-
 Quite the busy weekend! I took a couple of nights off since I will be traveling this weekend to Atlanta to visit a client. The downtime gave me a chance to charge my batteries and hit the labs hard over the weekend. I spent the better part of the weekend buried in the labs and it paid off - 5 new roots and another host that I am close to getting a shell on. 
 
 The weekend left me with several lessons learned. Don't always expect msfvenom to produce the best shell. It is great for a quick shell, but there are better ones out there. The perfect example of this is their PHP reverse shell. I struggled with a machine over the weekend because my shell kept dropping frequently. I had the right path to exploitation but could not escalate due to the shell dropping. I hunted around and found a really good PHP reverse TCP shell from pentestmonkey - https://github.com/pentestmonkey/php-reverse-shell. A stable low priv shell makes all the difference for finding the path to root. 
