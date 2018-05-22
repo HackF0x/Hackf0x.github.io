@@ -1,5 +1,5 @@
 ---
-title: All about Hack Fox and Hack Fox Accessories 
+title: Hack Fox and Hack Fox Accessories 
 layout: single
 author_profile: true
 read_time: false
