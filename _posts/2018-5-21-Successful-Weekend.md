@@ -6,7 +6,6 @@ read_time: false
 comments: null
 share: true
 related: true
-categories: OSCP
 excerpt_separator: <!--more-->
 ---
 _______________________________________________________________________________________________________________________________________
