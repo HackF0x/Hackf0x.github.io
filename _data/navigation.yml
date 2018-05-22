@@ -3,7 +3,7 @@ main:
  - title: "Blog"
     url: https://hackfox.net
    - title: "About"
-     url: https://hackfox.net/_posts/about
+     url: https://hackfox.net/about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
