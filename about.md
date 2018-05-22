@@ -1,5 +1,5 @@
 ---
-title: All about the hack fox. 
+title: All about the Hack Fox
 layout: single
 author_profile: true
 read_time: false
