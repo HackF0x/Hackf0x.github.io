@@ -1,9 +1,9 @@
 # main links
 main:
  - title: "Blog"
-    url: https://hackfox.net
+    url: /
    - title: "About"
-     url: https://hackfox.net/about
+     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
