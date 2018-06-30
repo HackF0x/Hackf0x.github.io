@@ -11,6 +11,7 @@ excerpt_separator: <!--more-->
 _______________________________________________________________________________________________________________________________________
 The OSCP has been the single most difficult challenge of my professional career. It tested my limits time and time again, pushing me further every time I stepped into the labs. "Try Harder" became a mantra and a phrase to live by. There is nothing in the labs that is impossible. The OSCP labs are designed to be difficult but doable, the difference between failure and success is you. The purpose of the course and the exam is not to teach you about any specific vulnerability or exploit technique, it is about developing methodology and mindset. If you cannot succeed in the OSCP because you cannot try harder, how will you ever be successful in the real world where you can't buy more lab time with a client who is expecting a thorough engagement? The OSCP will prepare you for dealing with challenges and digging through to find the way. All-in-all, I managed to compromise 43 hosts in 40 days of labtime, including all of the big baddies. 
 <!--more-->
+
 About Me:
 
 Prior to the OSCP I had roughly a years worth of pentesting experience. In my career I have dabbled in a bit of everything from network engineering to analyst work, preferring the "Jack of All, Master of None" approach. Having a diversified background benefited me during the course, having been exposed to different technologies. Academic wise, the only offensive course I have completed before was eLearnSecuritys PTS course. 
