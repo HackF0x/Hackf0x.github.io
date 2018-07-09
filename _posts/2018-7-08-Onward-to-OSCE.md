@@ -1,6 +1,5 @@
-
 ---
-title: Onward to the OSCE
+title: Setting sail for the OSCE
 layout: single
 author_profile: true
 read_time: false
