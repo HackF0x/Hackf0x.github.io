@@ -12,6 +12,7 @@ ________________________________________________________________________________
 
 Finishing up my OSCP left me wondering what my next step should be. My initial thoughts were to focus on web applications and get into bug bounties. The more I thought about it, the more I kept circling back to what I wanted for the longest time: Reversing applications and finding vulnerabilities, then building custom exploits. That was one of the primary reasons being a software engineer was my dream as a kid. I wanted to learn about things worked at the base level and figure out how to break them. Writing the buffer overflow in the OSCP reminded me of the dream. 
 <!--more-->
+
 The OSCE seems to be a mountain of a challenge. I have minimal coding experience and no dev experience. I don't know C code and I don't know ASM. I messed with Java and C++ many moons ago. I haven't touched either since I was 14 and a curious lad in my AP Programming class. Looking back I regret not going down the path I wanted so bad. Life happened and now I am ready to grab that passion again and drive on. I've developed a rough plan that I think will help me prepare for the course. There isn't really a set timeline like there was with the OSCP. I'm looking to take my time and really understand things. There are a lot of gaps that will need to be filled. I don't want to *just* pass the course. I want to fully understand what it is that I am doing. 
 
 The outline:
