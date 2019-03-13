@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Ramblings in the Cybers"
+title                    : "Something Something Cyber"
 title_separator          : "-"
 name                     : "Hack Fox"
-description              : "The ramblings of a threat hunter and total derp."
+description              : "The ramblings of a red teamer and total derp."
 url                      : https://hackfox.net
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HackF0x/InfoSec"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Hack Fox"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cyber Threat Hunter. Awkward. Quiet. Complete derp."
+  bio              : "Red Teamer. Awkward. Quiet. Complete derp."
   location         : "Tardis"
   email            :
   uri              :
